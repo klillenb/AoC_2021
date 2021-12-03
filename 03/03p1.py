@@ -25,3 +25,4 @@ gamma_decimal = int("".join(gamma_rate), 2)
 epsilon_decimal = int("".join(epsilon_rate), 2)
 
 print(f"{gamma_decimal*epsilon_decimal}")
+file.close()
