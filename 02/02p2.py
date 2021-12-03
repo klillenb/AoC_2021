@@ -20,3 +20,4 @@ for line in file:
         aim += n
 
 print(f"{depth*horizontal}")
+file.close()
