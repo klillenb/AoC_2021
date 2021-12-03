@@ -7,3 +7,4 @@ for n1, n2 in zip(data, data[1:]):
         count_increase += 1
             
 print(count_increase)
+file.close()
