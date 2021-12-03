@@ -18,3 +18,4 @@ for line in file:
         depth += n
 
 print(f"{depth*horizontal}")
+file.close()
