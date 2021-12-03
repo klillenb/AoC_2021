@@ -10,3 +10,4 @@ for discard, add in zip(data, data[3:]):
     prev_sum = new_sum
             
 print(count_increase)
+file.close()
